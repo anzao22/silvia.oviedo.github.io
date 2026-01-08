@@ -3,16 +3,13 @@ layout: default
 title: Inicio
 ---
 
-# Bienvenidos
+# 👋 Bienvenid@s a mi portafolio
 
-Este es mi portafolio.
+QA ENGINEER · QA MANUAL TESTER · Técnica Profesional en Soporte de Sistemas e Informática
 
-# 👋 Bienvenido/a a mi portafolio
-
-QA ENGINEER · QA MANUAL TESTER · QA LINGUISTIC QA · QA DOCUMENTADOR JUNIOR
 
 # 📋 Índice
-🚀 Sobre mí (#sobre-mí)
+🚀 Sobre mí (#-🚀-Sobre-mí)
 🛠️ Tech Stack (#tech-stack)
 📂 Proyectos Destacados (#proyectos-destacados)
 📬 ¿Hablamos? (#¿hablamos?)
