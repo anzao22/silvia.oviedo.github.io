@@ -1,6 +1,9 @@
-# silvia.oviedo.github.io
-Portafolio Silvia Oviedo | QA engineer 
-👋 Bienvenido/a a mi portafolio
+# Portafolio Silvia Oviedo | QA engineer 
+silvia.oviedo.github.io
+
+
+# 👋 Bienvenido/a a mi portafolio
+
 QA ENGINEER · QA MANUAL TESTER · QA LINGUISTIC QA · QA DOCUMENTADOR JUNIOR
 
 📋 Índice
@@ -10,7 +13,7 @@ QA ENGINEER · QA MANUAL TESTER · QA LINGUISTIC QA · QA DOCUMENTADOR JUNIOR
 📄 CV Profesional
 📬 ¿Hablemos?
 
-🚀 Sobre mí
+# 🚀 Sobre mí
 Soy QA Engineer junior con formación técnica en Informática y especialización en Quality Assurance. Cuento con una sólida base en pruebas manuales, testing de APIs y documentación de calidad, con experiencia en herramientas como Postman y JIRA.
 
 Mi perfil combina más de 15 años como docente universitaria y editora de textos con trabajo reciente en QA y proyectos de inteligencia artificial, lo que me permite aportar una mirada integral, analítica y orientada al detalle en entornos tecnológicos.
@@ -43,7 +46,7 @@ Documentación funcional Revisión lingüística Validación semántica
 🤖 IA & Educación
 Linguistic QA Model Training Data Validation
 
-📂 Proyectos Destacados
+# 📂 Proyectos Destacados
 📊 Proyecto de Testing Funcional – Sprint QA (Bootcamp QA Engineer, TripleTen)
 Diseñé y ejecuté casos de prueba funcionales para una aplicación web, aplicando técnicas de testing manual orientadas a la detección temprana de errores críticos. Realicé pruebas de API utilizando Postman y documenté hallazgos de manera estructurada en JIRA.
 
@@ -76,5 +79,5 @@ QA Funcional Análisis de Requerimientos Validación de Flujos Trabajo en Equipo
 📄 CV Profesional
 Disponible bajo solicitud.
 
-📬 ¿Hablamos?
+# 📬 ¿Hablamos?
 Abierta a colaborar en proyectos de QA, tecnología educativa, lenguaje e inteligencia artificial, donde la calidad, el detalle y la mejora continua sean clave.
