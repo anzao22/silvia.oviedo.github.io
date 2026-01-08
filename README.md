@@ -33,7 +33,7 @@ Además, cuento con experiencia en:
 
 Me caracterizo por trabajar de forma autónoma, organizada y proactiva, con reconocimiento por mi atención al detalle, confiabilidad y propuestas de mejora.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 🧪 QA & Testing
 Manual Testing Postman API Testing
 
