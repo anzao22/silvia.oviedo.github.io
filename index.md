@@ -9,7 +9,7 @@ QA ENGINEER · QA MANUAL TESTER · Técnica Profesional en Soporte de Sistemas e
 
 
 # 📋 Índice
-🚀 Sobre mí (#-🚀-Sobre-mí)
+🚀 Sobre mí (#https://github.com/anzao22/silvia.oviedo.github.io/blob/main/index.md#-sobre-m%C3%AD)
 🛠️ Tech Stack (#tech-stack)
 📂 Proyectos Destacados (#proyectos-destacados)
 📬 ¿Hablamos? (#¿hablamos?)
