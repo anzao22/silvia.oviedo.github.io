@@ -3,6 +3,6 @@ layout: default
 title: Inicio
 ---
 
-# Bienvenida
+# Bienvenidos
 
 Este es mi portafolio.
