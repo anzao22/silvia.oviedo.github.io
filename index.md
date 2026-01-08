@@ -9,19 +9,19 @@ QA ENGINEER · QA MANUAL TESTER · Técnica Profesional en Soporte de Sistemas e
 
 
 # 📋 Índice
-🚀 Sobre mí (#https://github.com/anzao22/silvia.oviedo.github.io/blob/main/index.md#-sobre-m%C3%AD)
-🛠️ Tech Stack (#tech-stack)
-📂 Proyectos Destacados (#proyectos-destacados)
-📬 ¿Hablamos? (#¿hablamos?)
+- [🚀 Sobre mí](#sobre-mi)
+- [🛠️ Tech Stack](#tech-stack)
+- [📂 Proyectos Destacados](#proyectos-destacados)
+- [📬 ¿Hablamos?](#hablamos)
 
-# 🚀 Sobre mí
-Soy QA Engineer junior con formación técnica en Informática y especialización en Quality Assurance. Cuento con una sólida base en pruebas manuales, testing de APIs y documentación de calidad, con experiencia en herramientas como Postman y JIRA.
+# 🚀 Sobre mí {#sobre-mi}
+Soy QA Engineer junior con formación técnica en Informática y especialización en Quality Assurance. Cuento con una sólida base en pruebas manuales, testing de APIs y documentación de calidad, co[...]
 
-Mi perfil combina más de 15 años como docente universitaria y editora de textos con trabajo reciente en QA y proyectos de inteligencia artificial, lo que me permite aportar una mirada integral, analítica y orientada al detalle en entornos tecnológicos.
+Mi perfil combina más de 15 años como docente universitaria y editora de textos con trabajo reciente en QA y proyectos de inteligencia artificial, lo que me permite aportar una mirada integral, red[...]
 
-He trabajado como Linguistic Quality Reviewer en proyectos de IA, revisando y validando audios para entrenamiento de modelos de lectura automática, asegurando coherencia lingüística, precisión semántica y calidad del output. Esta experiencia, junto con mi paso como asistente de investigación en un proyecto de Machine Learning, despertó mi interés por integrar lenguaje, educación y tecnología.
+He trabajado como Linguistic Quality Reviewer en proyectos de IA, revisando y validando audios para entrenamiento de modelos de lectura automática, asegurando coherencia lingüística, precisión sem[...]
 
-Actualmente continúo fortaleciendo mis habilidades técnicas mediante formación en QA Engineer en TripleTen y estudios técnicos en sistemas, con enfoque en calidad de software, procesos estructurados y mejora continua.
+Actualmente continúo fortaleciendo mis habilidades técnicas mediante formación en QA Engineer en TripleTen y estudios técnicos en sistemas, con enfoque en calidad de software, procesos estructurad[...]
 
 Además, cuento con experiencia en:
 
@@ -34,7 +34,7 @@ Además, cuento con experiencia en:
 
 Me caracterizo por trabajar de forma autónoma, organizada y proactiva, con reconocimiento por mi atención al detalle, confiabilidad y propuestas de mejora.
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack {#tech-stack}
 🧪 QA & Testing
 Manual Testing Postman API Testing
 
@@ -47,10 +47,10 @@ Documentación funcional Revisión lingüística Validación semántica
 🤖 IA & Educación
 Linguistic QA Model Training Data Validation
 
-# 📂 Proyectos Destacados
+# 📂 Proyectos Destacados {#proyectos-destacados}
 📊 Proyecto de Testing Funcional – Sprint QA (Bootcamp QA Engineer, TripleTen)
-<a href="[docs/mi_archivo.xlsx](https://docs.google.com/spreadsheets/d/1T_iGh5fAnJOVbR94Fqo8y5gyvyIibAQM/edit?usp=sharing&ouid=110652223367052207420&rtpof=true&sd=true)">Descargar Excel</a>
-Diseñé y ejecuté casos de prueba funcionales para una aplicación web, aplicando técnicas de testing manual orientadas a la detección temprana de errores críticos. Realicé pruebas de API utilizando Postman y documenté hallazgos de manera estructurada en JIRA.
+[Descargar Excel](https://docs.google.com/spreadsheets/d/1T_iGh5fAnJOVbR94Fqo8y5gyvyIibAQM/edit?usp=sharing&ouid=110652223367052207420&rtpof=true&sd=true)
+Diseñé y ejecuté casos de prueba funcionales para una aplicación web, aplicando técnicas de testing manual orientadas a la detección temprana de errores críticos. Realicé pruebas de API utiliz[...]
 
 Este proyecto consolidó mis habilidades en control de calidad, documentación y validación de criterios funcionales.
 
@@ -66,7 +66,7 @@ Aptitudes:
 Manual Testing Test Case Design Postman API Testing JIRA
 
 📚 Mochila Digital – SaaS educativo (HackaCUN – CUN)
-Participé en la validación funcional de una solución SaaS educativa orientada a llevar educación a zonas rurales. Realicé levantamiento de requerimientos, validación de flujos funcionales y pruebas desde la perspectiva del usuario final, trabajando en equipo bajo un enfoque ágil.
+Participé en la validación funcional de una solución SaaS educativa orientada a llevar educación a zonas rurales. Realicé levantamiento de requerimientos, validación de flujos funcionales y prue[...]
 
 Resultados destacados:
 
@@ -79,7 +79,7 @@ Aptitudes:
 QA Funcional Análisis de Requerimientos Validación de Flujos Trabajo en Equipo
 
 
-# 📬 ¿Hablamos?
+# 📬 ¿Hablamos? {#hablamos}
 Abierta a colaborar en proyectos de QA, tecnología educativa, lenguaje e inteligencia artificial, donde la calidad, el detalle y la mejora continua sean clave.
 📄 CV Profesional
 Disponible bajo solicitud.
