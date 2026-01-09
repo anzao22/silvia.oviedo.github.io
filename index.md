@@ -15,13 +15,13 @@ QA ENGINEER · QA MANUAL TESTER · Técnica Profesional en Soporte de Sistemas e
 - [📬 ¿Hablamos?](#hablamos)
 
 # 🚀 Sobre mí {#sobre-mi}
-Soy QA Engineer junior con formación técnica en Informática y especialización en Quality Assurance. Cuento con una sólida base en pruebas manuales, testing de APIs y documentación de calidad, co[...]
+Soy QA Engineer junior con formación técnica en Informática y especialización en Quality Assurance. Cuento con una sólida base en pruebas manuales, testing de APIs y documentación de calidad, con experiencia en herramientas como Postman y JIRA.
 
-Mi perfil combina más de 15 años como docente universitaria y editora de textos con trabajo reciente en QA y proyectos de inteligencia artificial, lo que me permite aportar una mirada integral, red[...]
+Mi perfil combina más de 15 años como docente universitaria y editora de textos con trabajo reciente en QA y proyectos de inteligencia artificial, lo que me permite aportar una mirada integral, analítica y orientada al detalle en entornos tecnológicos.
 
-He trabajado como Linguistic Quality Reviewer en proyectos de IA, revisando y validando audios para entrenamiento de modelos de lectura automática, asegurando coherencia lingüística, precisión sem[...]
+He trabajado como Linguistic Quality Reviewer en proyectos de IA, revisando y validando audios para entrenamiento de modelos de lectura automática, asegurando coherencia lingüística, precisión semántica y calidad del output. Esta experiencia, junto con mi paso como asistente de investigación en un proyecto de Machine Learning, despertó mi interés por integrar lenguaje, educación y tecnología.
 
-Actualmente continúo fortaleciendo mis habilidades técnicas mediante formación en QA Engineer en TripleTen y estudios técnicos en sistemas, con enfoque en calidad de software, procesos estructurad[...]
+Actualmente continúo fortaleciendo mis habilidades técnicas mediante formación en QA Engineer en TripleTen y estudios técnicos en sistemas, con enfoque en calidad de software, procesos estructurados y mejora continua.
 
 Además, cuento con experiencia en:
 
@@ -36,20 +36,29 @@ Me caracterizo por trabajar de forma autónoma, organizada y proactiva, con reco
 
 # 🛠️ Tech Stack {#tech-stack}
 🧪 QA & Testing
-Manual Testing Postman API Testing
+Manual Testing 
+Postman 
+API Testing
 
 📋 Gestión & Documentación
-JIRA GitHub Google Workspace
+JIRA 
+Excel
+GitHub 
+Google Workspace
 
 🗃️ Análisis & Lenguaje
-Documentación funcional Revisión lingüística Validación semántica
+APIDocs
+Documentación funcional
+Revisión lingüística 
+Validación semántica
 
 🤖 IA & Educación
-Linguistic QA Model Training Data Validation
+Linguistic QA 
+Model Training Data Validation
 
 # 📂 Proyectos Destacados {#proyectos-destacados}
 
-##📊 Proyecto de API Testing – Sprint 4 QA (Bootcamp QA Engineer, TripleTen)
+##📊 Proyecto de API Testing | UrbanGrocers – Sprint 4 QA (Bootcamp QA Engineer, TripleTen)
 [Ver Excel](https://docs.google.com/spreadsheets/d/16Bh0rHK9qNO0CQgzzvZ5I3rEVqXcrFqdwYlevn3-cvE/edit?usp=sharing)
 Diseñé y ejecuté casos de pruebas positivos y negativos, considerando valores límite y seguimiento de requisitos funcionales y no funcionales para validación de app de compras e inspección de solicitudes http, e hice el reporte de bugs. Proceso realizado a través de ApiDocs, Postman y Jira.
 
@@ -63,11 +72,11 @@ Resultados destacados:
 
 Aptitudes:
 
-Manual Testing Test Case Design Postman, APIdocs, Testing JIRA
+Manual Testing, Test Case Design, Postman, APIdocs, Testing JIRA
 
-##📊 Proyecto de Testing Funcional – Sprint 3 QA (Bootcamp QA Engineer, TripleTen)
+##📊 Proyecto de Testing Funcional | UrbanRoutes – Sprint 3 QA (Bootcamp QA Engineer, TripleTen)
 [Ver Excel](https://docs.google.com/spreadsheets/d/1T_iGh5fAnJOVbR94Fqo8y5gyvyIibAQM/edit?usp=sharing&ouid=110652223367052207420&rtpof=true&sd=true)
-Diseñé y ejecuté casos de prueba funcionales para una aplicación web, aplicando técnicas de testing manual orientadas a la detección temprana de errores críticos. Realicé pruebas de API utiliz[...]
+Diseñé y ejecuté casos de prueba funcionales para una aplicación web de transporte, aplicando técnicas de testing manual orientadas a la detección temprana de errores críticos. Realicé pruebas de API utilizando Postman y Jira.
 
 Este proyecto consolidó mis habilidades en control de calidad, documentación y validación de criterios funcionales.
 
@@ -80,7 +89,7 @@ Resultados destacados:
 
 Aptitudes:
 
-Manual Testing Test Case Design Postman API Testing JIRA
+Manual Testing, Test Case Design, Postman, API Testing, JIRA
 
 ## 📚 Mochila Digital – SaaS educativo (HackaCUN – CUN)
 Participé en la validación funcional de una solución SaaS educativa orientada a llevar educación a zonas rurales. Realicé levantamiento de requerimientos, validación de flujos funcionales y prototipado necesario para el diseño del producto web SaaS con IA a través de Marblism, aplicando técnicas elevadas de prototipado. [Ver diploma](https://drive.google.com/file/d/1aIFBzFnevLokVSQjRNHu8U0wUlz6bn5i/view?usp=sharing)
