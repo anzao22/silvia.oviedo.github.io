@@ -110,4 +110,4 @@ Técnicas de prototipado
 # 📬 ¿Hablamos? {#hablamos}
 Abierta a colaborar en proyectos de QA, tecnología educativa, lenguaje e inteligencia artificial, donde la calidad, el detalle y la mejora continua sean clave.
 📄 CV Profesional
-Disponible bajo solicitud.
+Disponible bajo solicitud; puedes contactarme a través de mi [Linkedin](https://www.linkedin.com/in/silvia-oviedo/)
