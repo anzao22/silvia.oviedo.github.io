@@ -48,8 +48,25 @@ Documentación funcional Revisión lingüística Validación semántica
 Linguistic QA Model Training Data Validation
 
 # 📂 Proyectos Destacados {#proyectos-destacados}
-📊 Proyecto de Testing Funcional – Sprint QA (Bootcamp QA Engineer, TripleTen)
-[Descargar Excel](https://docs.google.com/spreadsheets/d/1T_iGh5fAnJOVbR94Fqo8y5gyvyIibAQM/edit?usp=sharing&ouid=110652223367052207420&rtpof=true&sd=true)
+
+##📊 Proyecto de API Testing – Sprint 4 QA (Bootcamp QA Engineer, TripleTen)
+[Ver Excel](https://docs.google.com/spreadsheets/d/16Bh0rHK9qNO0CQgzzvZ5I3rEVqXcrFqdwYlevn3-cvE/edit?usp=sharing)
+Diseñé y ejecuté casos de pruebas positivos y negativos, considerando valores límite y seguimiento de requisitos funcionales y no funcionales para validación de app de compras e inspección de solicitudes http, e hice el reporte de bugs. Proceso realizado a través de ApiDocs, Postman y Jira.
+
+Este proyecto consolidó mis habilidades en inspección de solicitudes http, documentación y validación de criterios funcionales y no funcionales.
+
+Resultados destacados:
+
+🧪 Diseño y ejecución de casos de pruebas positivas y negativas.
+🔄 Ejecución de pruebas de API para validar confiabilidad del sistema.
+🐞 Reporte claro y estructurado de bugs en JIRA.
+
+Aptitudes:
+
+Manual Testing Test Case Design Postman, APIdocs, Testing JIRA
+
+##📊 Proyecto de Testing Funcional – Sprint 3 QA (Bootcamp QA Engineer, TripleTen)
+[Ver Excel](https://docs.google.com/spreadsheets/d/1T_iGh5fAnJOVbR94Fqo8y5gyvyIibAQM/edit?usp=sharing&ouid=110652223367052207420&rtpof=true&sd=true)
 Diseñé y ejecuté casos de prueba funcionales para una aplicación web, aplicando técnicas de testing manual orientadas a la detección temprana de errores críticos. Realicé pruebas de API utiliz[...]
 
 Este proyecto consolidó mis habilidades en control de calidad, documentación y validación de criterios funcionales.
@@ -65,8 +82,8 @@ Aptitudes:
 
 Manual Testing Test Case Design Postman API Testing JIRA
 
-📚 Mochila Digital – SaaS educativo (HackaCUN – CUN)
-Participé en la validación funcional de una solución SaaS educativa orientada a llevar educación a zonas rurales. Realicé levantamiento de requerimientos, validación de flujos funcionales y prue[...]
+## 📚 Mochila Digital – SaaS educativo (HackaCUN – CUN)
+Participé en la validación funcional de una solución SaaS educativa orientada a llevar educación a zonas rurales. Realicé levantamiento de requerimientos, validación de flujos funcionales y prototipado necesario para el diseño del producto web SaaS con IA a través de Marblism, aplicando técnicas elevadas de prototipado. [Ver diploma](https://drive.google.com/file/d/1aIFBzFnevLokVSQjRNHu8U0wUlz6bn5i/view?usp=sharing)
 
 Resultados destacados:
 
@@ -76,7 +93,9 @@ Resultados destacados:
 
 Aptitudes:
 
-QA Funcional Análisis de Requerimientos Validación de Flujos Trabajo en Equipo
+Generación de Requerimientos 
+Validación de Flujos Trabajo en Equipo
+Técnicas de prototipado
 
 
 # 📬 ¿Hablamos? {#hablamos}
