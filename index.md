@@ -35,30 +35,31 @@ Además, cuento con experiencia en:
 Me caracterizo por trabajar de forma autónoma, organizada y proactiva, con reconocimiento por mi atención al detalle, confiabilidad y propuestas de mejora.
 
 # 🛠️ Tech Stack {#tech-stack}
+
 🧪 QA & Testing
-Manual Testing 
-Postman 
-API Testing
+- Manual Testing 
+- Postman 
+- API Testing
 
 📋 Gestión & Documentación
-JIRA 
-Excel
-GitHub 
-Google Workspace
+- JIRA 
+- Excel
+- GitHub 
+- Google Workspace
 
 🗃️ Análisis & Lenguaje
-APIDocs
-Documentación funcional
-Revisión lingüística 
-Validación semántica
+- APIDocs
+- Documentación funcional
+- Revisión lingüística 
+- Validación semántica
 
 🤖 IA & Educación
-Linguistic QA 
-Model Training Data Validation
+- Linguistic QA 
+- Model Training Data Validation
 
 # 📂 Proyectos Destacados {#proyectos-destacados}
 
-##📊 Proyecto de API Testing | UrbanGrocers – Sprint 4 QA (Bootcamp QA Engineer, TripleTen)
+## 📊 Proyecto de API Testing | UrbanGrocers – Sprint 4 QA (Bootcamp QA Engineer, TripleTen)
 [Ver Excel](https://docs.google.com/spreadsheets/d/16Bh0rHK9qNO0CQgzzvZ5I3rEVqXcrFqdwYlevn3-cvE/edit?usp=sharing)
 Diseñé y ejecuté casos de pruebas positivos y negativos, considerando valores límite y seguimiento de requisitos funcionales y no funcionales para validación de app de compras e inspección de solicitudes http, e hice el reporte de bugs. Proceso realizado a través de ApiDocs, Postman y Jira.
 
@@ -66,15 +67,15 @@ Este proyecto consolidó mis habilidades en inspección de solicitudes http, doc
 
 Resultados destacados:
 
-🧪 Diseño y ejecución de casos de pruebas positivas y negativas.
-🔄 Ejecución de pruebas de API para validar confiabilidad del sistema.
-🐞 Reporte claro y estructurado de bugs en JIRA.
+- 🧪 Diseño y ejecución de casos de pruebas positivas y negativas.
+- 🔄 Ejecución de pruebas de API para validar confiabilidad del sistema.
+- 🐞 Reporte claro y estructurado de bugs en JIRA.
 
 Aptitudes:
 
 Manual Testing, Test Case Design, Postman, APIdocs, Testing JIRA
 
-##📊 Proyecto de Testing Funcional | UrbanRoutes – Sprint 3 QA (Bootcamp QA Engineer, TripleTen)
+## 📊 Proyecto de Testing Funcional | UrbanRoutes – Sprint 3 QA (Bootcamp QA Engineer, TripleTen)
 [Ver Excel](https://docs.google.com/spreadsheets/d/1T_iGh5fAnJOVbR94Fqo8y5gyvyIibAQM/edit?usp=sharing&ouid=110652223367052207420&rtpof=true&sd=true)
 Diseñé y ejecuté casos de prueba funcionales para una aplicación web de transporte, aplicando técnicas de testing manual orientadas a la detección temprana de errores críticos. Realicé pruebas de API utilizando Postman y Jira.
 
@@ -82,10 +83,10 @@ Este proyecto consolidó mis habilidades en control de calidad, documentación y
 
 Resultados destacados:
 
-🧪 Diseño y ejecución de casos de prueba funcionales.
-🔄 Ejecución de pruebas de API para validar confiabilidad del sistema.
-🐞 Reporte claro y estructurado de bugs en JIRA.
-✅ Proyecto aprobado en el primer intento por cumplimiento de criterios de calidad.
+- 🧪 Diseño y ejecución de casos de prueba funcionales.
+- 🔄 Ejecución de pruebas de API para validar confiabilidad del sistema.
+- 🐞 Reporte claro y estructurado de bugs en JIRA.
+- ✅ Proyecto aprobado en el primer intento por cumplimiento de criterios de calidad.
 
 Aptitudes:
 
@@ -96,15 +97,15 @@ Participé en la validación funcional de una solución SaaS educativa orientada
 
 Resultados destacados:
 
-📋 Definición y validación de requerimientos funcionales.
-🔄 Análisis de flujos y experiencia de usuario.
-🏆 Proyecto ganador del 3.er puesto en HackaCUN 2024.
+- 📋 Definición y validación de requerimientos funcionales.
+- 🔄 Análisis de flujos y experiencia de usuario.
+- 🏆 Proyecto ganador del 3.er puesto en HackaCUN 2024.
 
 Aptitudes:
 
-Generación de Requerimientos 
-Validación de Flujos Trabajo en Equipo
-Técnicas de prototipado
+- Generación de Requerimientos 
+- Validación de Flujos Trabajo en Equipo
+- Técnicas de prototipado
 
 
 # 📬 ¿Hablamos? {#hablamos}
